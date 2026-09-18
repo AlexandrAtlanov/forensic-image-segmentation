@@ -1,4 +1,4 @@
-<img width="1768" height="632" alt="image" src="https://github.com/user-attachments/assets/e7b7eada-880b-434a-ad73-a4830c46cfb6" /># Forensic Image Segmentation
+# Forensic Image Segmentation
 
 **Сегментация областей фотоподделок:** по RGB-изображению предсказать бинарную
 маску внесённых правок в нативном разрешении и отделить честные фото от изменённых.
